@@ -6,4 +6,5 @@ For this research project, we are using the  3 datasets provided by the company,
 # Data preparation steps:
 * data cleaning which involves checking and dealing with outliers and duplicates,Outlier detection and  treatment of the outliers.
 * Data engineering for modelling  which includes encoding categorical variables, spliting data to test and train sets.
-* Training various models, evaluating performance of each model
+
+  # Data modelling : trained various classification anf evaluated  performance for each to com up with the best model to use
